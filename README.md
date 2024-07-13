@@ -1,5 +1,4 @@
 # Traveltide-customer-segmentation-reward
-Executive Report
 
 Traveler Segmentation and Analysis Project
 
